@@ -65,7 +65,7 @@ nav img {
 }
 .banner-heading {
   position: absolute;
-  padding: 106px 287px 314px;
+  padding: 30px 280px 300px;
   top: 0%;
 }
 .banner-header {
@@ -80,7 +80,7 @@ nav img {
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
-  padding-top: 20px;
+  padding-top: 5px;
 }
 .input-item{
     position: absolute;
